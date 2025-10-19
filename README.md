@@ -1,5 +1,5 @@
 
-# Visualizing C++ Object Memory Layout
+# Visualizing The C++ Object Memory Layout
 
 This repository contains small experiments to visualize how C++ objects are laid out in memory, with a focus on **vptr, vtable, object members, and memory padding**. It accompanies a series of blog posts exploring these concepts in depth.
 
