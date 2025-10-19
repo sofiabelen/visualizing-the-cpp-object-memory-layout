@@ -13,7 +13,7 @@ Read the blog post (Part 1: Single Inheritance) here: [Visualizing the C++ Objec
 part_1_single_inheritance/
 ├─ vtable.cpp # Experiment with virtual functions and vtable
 └─ object_layout.cpp # Experiment with object memory layout
-CMakeLists.txt # Build configuration
+CMakeLists.txt
 ```
 ---
 
