@@ -5,6 +5,8 @@ This repository contains small experiments to visualize how C++ objects are laid
 
 Read the blog post (Part 1: Single Inheritance) here: [Visualizing the C++ Object Memory Layout Part 1: Single Inheritance](https://sofiabelen.github.io/projects/visualizing-the-cpp-object-memory-layout-part-1-single-inheritance/)
 
+![](assets/vtable-both.svg)
+
 ---
 
 ## Project Structure
