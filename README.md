@@ -38,7 +38,3 @@ cmake --build .
 ./vtable
 ./object_layout
 ```
-
-## License
-
-MIT
